@@ -3,8 +3,8 @@ title: "Module2 - R Markdown Document 1"
 author: "Hugo Antonio Fernández"
 date: '2022-10-29'
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 editor_options:
   chunk_output_type: console
 ---
@@ -63,7 +63,22 @@ Prueba el siguiente código:
 >     mean(c(1,2,3,4,5))
 
 
----
+# Problema 5
+
+5.1 Sea $X$ una solo observación con f.d.p. $f(x;\theta)=\frac{e^{-x/\theta}}{\theta}$
+
+> (a) Calcule la esperanza de $X$
+> (b) Calcule la varianza de $X$
+
+> Ajuste los siguientes datos al modelo:
+
+```{r}
+knitr::kable(head(cars),
+             caption ="Top 6 rows ")
+```
+
+
+- - -
 
 # Libros
 
