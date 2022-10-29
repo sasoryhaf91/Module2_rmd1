@@ -1,0 +1,75 @@
+---
+title: "Module2 - R Markdown Document 1"
+author: "Hugo Antonio Fernández"
+date: '2022-10-29'
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+# Problema 1
+
+* Sea $X_1,X_2,...,X_n$ una m.a. con $X\sim Poison(\lambda)$
+    - Demostrar que 
+        + (a) $X$ es una función de distribución.
+        + (b) La $E(X)=\lambda$
+        + (c) La $V(X)=\lambda$
+    - Obtener
+        + (a) La función de verosimilitud de la m.a.
+        
+---
+
+# Problema 2
+
+1. Sea $X_1,X_2,...,X_n$ una m.a. con $X\sim Poison(\lambda)$
+    a. Demostrar que 
+        i. $X$ es una función de distribución.
+        ii. La $E(X)=\lambda$
+        iii. La $V(X)=\lambda$
+    b. Obtener
+        i. La función de verosimilitud de la m.a.
+        
+---
+
+# Problema 3
+
+> 1. Sea $X_1,X_2,...,X_n$ una m.a. con $X\sim Poison(\lambda)$
+>    a. Demostrar que 
+>        i. $X$ es una función de distribución.
+>        ii. La $E(X)=\lambda$
+>        iii. La $V(X)=\lambda$
+>    b. Obtener
+>        i. La función de verosimilitud de la m.a.
+
+---
+
+# Problema 4
+
+> 1. Sea $X_1,X_2,...,X_n$ una m.a. con $X\sim Poison(\lambda)$
+>    a. Demostrar que 
+>        i. $X$ es una función de distribución.
+>        ii. La $E(X)=\lambda$
+>        iii. La $V(X)=\lambda$
+>    b. Obtener
+>
+> >          i. El estimador de máxima verosimilitud $X$
+
+
+Prueba el siguiente código:
+
+>     2+2
+>     mean(c(1,2,3,4,5))
+
+
+---
+
+# Libros
+
+* Annete, D. (2008). An Introductión to Generalized Linear Models. Disponible en <https://aulamex-my.sharepoint.com/:b:/g/personal/hugo_antonio623_aulamexiquense_mx/EVn-r_yCgrhBhsfthjFprtYBhr3M5K9VdyIRtekMBChKiQ?e=56uSXB>
+
+* Annete, D. (2008). An Introductión to Generalized Linear Models. Disponible [aquí](https://aulamex-my.sharepoint.com/:b:/g/personal/hugo_antonio623_aulamexiquense_mx/EVn-r_yCgrhBhsfthjFprtYBhr3M5K9VdyIRtekMBChKiQ?e=56uSXB)
+
+
+
