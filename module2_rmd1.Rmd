@@ -78,7 +78,36 @@ knitr::kable(head(cars),
 ```
 
 
+# Poblema 6
+
+## Here a image 
+
+![sunstar](sunstar.png)
+
+## Here are an Animated GIF and Video
+
+![sunstar](sunstar/sunstar.gif)
+
+![sunstar](sunstar/sunstar.mp4)
+
+
+## Insert test with some footnotes
+
+Here is footnote reference [^l] and another [^longnote]
+
+Here is an inline foornote ^[Inline notes are easier to write, since don't have to pick an identifier and move down to type the note.]
+
+[^l]: Here is the footnote
+[^longnote]: Here's one with multiple blocks.
+
+
+
+
 - - -
+
+
+
+
 
 # Libros
 
